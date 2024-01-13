@@ -2,4 +2,6 @@
 
 //OddOrEven.IsEven();
 //FirstAndLastDigit.WhatIsFirstAndLastDigit();
-CountDigits.CountDigitsInNumber();
+//CountDigits.CountDigitsInNumber();
+//ReverseNumber.ReverseAnArray();
+PowerOfNumbers.Power();

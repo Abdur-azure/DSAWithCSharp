@@ -10,7 +10,6 @@ namespace DSAWithCSharp.Problems
     {
         public static void CountDigitsInNumber()
         {
-            //number
             long n = 345289467;
 
             string num = Convert.ToString(n);
