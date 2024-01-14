@@ -4,4 +4,6 @@
 //FirstAndLastDigit.WhatIsFirstAndLastDigit();
 //CountDigits.CountDigitsInNumber();
 //ReverseNumber.ReverseAnArray();
-PowerOfNumbers.Power();
+//PowerOfNumbers.Power();
+//GCDOrHCF.MainMethod();
+FactorsOfNumber.Factors();
