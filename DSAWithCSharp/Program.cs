@@ -6,4 +6,5 @@
 //ReverseNumber.ReverseAnArray();
 //PowerOfNumbers.Power();
 //GCDOrHCF.MainMethod();
-FactorsOfNumber.Factors();
+//FactorsOfNumber.Factors();
+PrimeNumber.IsPrimeMain();
