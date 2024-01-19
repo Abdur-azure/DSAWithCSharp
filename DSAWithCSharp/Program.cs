@@ -7,4 +7,5 @@
 //PowerOfNumbers.Power();
 //GCDOrHCF.MainMethod();
 //FactorsOfNumber.Factors();
-PrimeNumber.IsPrimeMain();
+//PrimeNumber.IsPrimeMain();
+ArmstrongNumber.NthArmstrongNumberMain();
