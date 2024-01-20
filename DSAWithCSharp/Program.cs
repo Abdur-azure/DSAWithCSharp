@@ -8,4 +8,5 @@
 //GCDOrHCF.MainMethod();
 //FactorsOfNumber.Factors();
 //PrimeNumber.IsPrimeMain();
-ArmstrongNumber.NthArmstrongNumberMain();
+//ArmstrongNumber.NthArmstrongNumberMain();
+PalindromeNumber.CheckPalindromeMain();
