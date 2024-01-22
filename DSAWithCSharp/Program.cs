@@ -9,4 +9,6 @@
 //FactorsOfNumber.Factors();
 //PrimeNumber.IsPrimeMain();
 //ArmstrongNumber.NthArmstrongNumberMain();
-PalindromeNumber.CheckPalindromeMain();
+//PalindromeNumber.CheckPalindromeMain();
+//SquareRoot.FindSquareRootMain();
+PerfectNumber.IsPerfectMain();
