@@ -11,4 +11,5 @@
 //ArmstrongNumber.NthArmstrongNumberMain();
 //PalindromeNumber.CheckPalindromeMain();
 //SquareRoot.FindSquareRootMain();
-PerfectNumber.IsPerfectMain();
+//PerfectNumber.IsPerfectMain();
+ArrayMaximumMinimum.GetMinMaxMain();
