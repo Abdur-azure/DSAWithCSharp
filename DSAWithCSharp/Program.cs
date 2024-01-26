@@ -1,5 +1,7 @@
 ﻿using DSAWithCSharp.Problems;
 
+//Interview.ReverseString("Abdur");
+
 //OddOrEven.IsEven();
 //FirstAndLastDigit.WhatIsFirstAndLastDigit();
 //CountDigits.CountDigitsInNumber();
@@ -12,4 +14,6 @@
 //PalindromeNumber.CheckPalindromeMain();
 //SquareRoot.FindSquareRootMain();
 //PerfectNumber.IsPerfectMain();
-ArrayMaximumMinimum.GetMinMaxMain();
+//ArrayMaximumMinimum.GetMinMaxMain();
+//ThirdLargestElement.ThirdLargestMain();
+MissingNumber.GetMissingNumberMain();
