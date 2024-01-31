@@ -17,4 +17,8 @@
 //ArrayMaximumMinimum.GetMinMaxMain();
 //ThirdLargestElement.ThirdLargestMain();
 //MissingNumber.GetMissingNumberMain();
-DutchNationalFlag.SortArrayMain();
+//DutchNationalFlag.SortArrayMain();
+//CompareArrays.EqualArrayMain();
+//RotateArrayByOne.RotateArrayMain();
+//RotateArrayByK.RightRotateMain();
+ArraySubsetArray.IsSubsetMain();
