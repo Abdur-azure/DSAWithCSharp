@@ -21,4 +21,10 @@
 //CompareArrays.EqualArrayMain();
 //RotateArrayByOne.RotateArrayMain();
 //RotateArrayByK.RightRotateMain();
-ArraySubsetArray.IsSubsetMain();
+//ArraySubsetArray.IsSubsetMain();
+//StringAdderClass.StringAdderMain();
+//CountingFrequencyOfArray.CountFrequencyMain();
+//TwoPointerTechnique.PrintPairsMain();
+//TripletSumArray.IsTripletMain();
+//TripletWithZeroSum.IsTripletMain();
+UnionArray.MakeUnionMain();
