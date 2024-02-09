@@ -27,4 +27,8 @@
 //TwoPointerTechnique.PrintPairsMain();
 //TripletSumArray.IsTripletMain();
 //TripletWithZeroSum.IsTripletMain();
-UnionArray.MakeUnionMain();
+//UnionArray.MakeUnionMain();
+//RemoveDulplicatesInArray.RemoveDuplicatesMain();
+//KthElementofArray.KthElementMain();
+//MajorityElementInArray.MajorityElementMain();
+StackLearn.Main();
