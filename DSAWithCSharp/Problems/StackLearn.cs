@@ -20,6 +20,8 @@ namespace DSAWithCSharp.Problems
             stack.Push("F");
 
             Console.WriteLine(stack);
+
+            Word<string> word = new Word<string>();
         }
     }
 }

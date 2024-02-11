@@ -31,4 +31,6 @@
 //RemoveDulplicatesInArray.RemoveDuplicatesMain();
 //KthElementofArray.KthElementMain();
 //MajorityElementInArray.MajorityElementMain();
-StackLearn.Main();
+//KadanesAlgorithm.MaxSubArraySumMain();
+InversionCountOfArray.InversionCountMain();
+//StackLearn.Main();
